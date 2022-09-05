@@ -46,22 +46,22 @@ export default function App() {
     ],
     mystery: [
       {
-        movie: "Interstellar",
-        IMDbRating: "8.6/10",
+        movie: "Orphan",
+        IMDbRating: "7/10",
         Info:
-          "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+          "A husband and wife who recently lost their baby adopt a 9-year-old girl who is not nearly as innocent as she appears."
       },
       {
-        movie: "Dune (2021)",
-        IMDbRating: "8/10",
+        movie: "The Little Things",
+        IMDbRating: "6.3/10",
         Info:
-          "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future."
+          "Kern County Deputy Sheriff Joe Deacon is sent to Los Angeles for what should have been a quick evidence-gathering assignment. Instead, he becomes embroiled in the search for a serial killer who is terrorizing the city."
       },
       {
-        movie: "Ready Player One",
-        IMDbRating: "7.4/10",
+        movie: "Gone Girl",
+        IMDbRating: "8.1/10",
         Info:
-          "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world."
+          "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
       }
     ]
   };
